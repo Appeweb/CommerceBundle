@@ -1,0 +1,16 @@
+{
+    "name": "commerce-bundle",
+    "description": "Bundle for implement bases for manage e-commerce (ex: products, baskets, sales,...",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Appeweb\\CommerceBundle\\": ""
+        }
+    },
+    "require": {
+        "php": "^7.1",
+        "symfony/framework-bundle": "^4.0"
+    },
+    "version": "0.0.1"
+}
